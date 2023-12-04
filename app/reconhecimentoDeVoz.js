@@ -8,7 +8,8 @@ const body = document.querySelector('body');
 
 
 function onSpeak(evento) {
-    chute = evento.results[0][0].transcript;      
+    chute = evento.results[0][0].transcript;
+    console.log(chute);      
     apenasNumero = chute.split(' ')[1];
     if(apenasNumero == isNaN || !+apenasNumero){
         apenasNumero = 'Numero não identificado!';

@@ -61,3 +61,25 @@ h3 {
 .aviso {
     color: #FFFF00;
 }
+
+@media screen and (max-width: 650px) {
+    h1{
+        font-size: 3em;
+    }
+
+    h2{
+        font-size: 2em;
+    }
+
+    h3{
+        font-size: 1em;
+    }
+
+    .mensagem {
+        font-size: 1em;
+    }
+
+    .box {
+        font-size: 1em;        
+    }
+}
