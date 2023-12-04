@@ -24,6 +24,11 @@ h1 {
     font-size: 5em;
 }
 
+h2{
+    font-size: 4em;
+    margin: 30px 0;
+}
+
 h3 {
     font-size: 2em;
     margin-top: 20px;
@@ -41,4 +46,18 @@ h3 {
     padding: 10px;
     margin: 20px;
     border-radius: 20px;
+}
+
+.btn-jogar{
+    padding: 8px 15px;
+    border: 0;
+    background-color: var(--primary-color);
+    border-radius: 15px;
+    margin-top: 20px;
+    color: #FFF;
+    font-size: 2em;
+}
+
+.aviso {
+    color: #FFFF00;
 }
