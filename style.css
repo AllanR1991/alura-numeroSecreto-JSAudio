@@ -63,12 +63,15 @@ h3 {
 }
 
 @media screen and (max-width: 650px) {
+    body{
+        padding: 0 10%;
+    }
     h1{
-        font-size: 3em;
+        font-size: 2em;
     }
 
     h2{
-        font-size: 2em;
+        font-size: 1.5em;
     }
 
     h3{
