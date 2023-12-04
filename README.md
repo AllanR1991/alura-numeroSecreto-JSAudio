@@ -1,5 +1,3 @@
-# alura-numeroSecreto-JSAudio
-
 # Projeto Adivinhe o número secreto.
 
 Projeto criado para aprendizado de JavaScript ao qual forma abordados os seguintes tópicos:
